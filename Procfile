@@ -1,1 +1,1 @@
-worker: python3 -m Midukki
+worker: python3 bot.py
